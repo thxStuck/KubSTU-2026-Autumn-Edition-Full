@@ -21,7 +21,7 @@
 
 Гуглим «барная улица в Краснодаре» / «ресторанная улица в Краснодаре». Стабильно вылезают **ул. Красная** и параллельные ей **Рашпилевская** и **Красноармейская** в центре.
 
-![bar_rest_mile.png](https://github.com/thxStuck/KubSTU-2026-Autumn-Edition/edit/main/OSINT/Afterparty/bar_rest_mile.png)
+![bar_rest_mile.png](https://github.com/thxStuck/KubSTU-2026-Autumn-Edition/blob/main/OSINT/Afterparty/bar_rest_mile.png)
 
 В этой зоне ~300 различных заведений — для перебора слишком много, поэтому фильтруем по уликам со Шага 1.
 
@@ -49,7 +49,7 @@
 
 Совпадения сходятся на одном месте: **DeepSmoke, Красноармейская ул., 68.**
 
-![cocktail_writeup.png](https://github.com/thxStuck/KubSTU-2026-Autumn-Edition/edit/main/OSINT/Afterparty/cocktail_writeup.png)
+![cocktail_writeup.png](https://github.com/thxStuck/KubSTU-2026-Autumn-Edition/blob/main/OSINT/Afterparty/cocktail_writeup.png)
 
 ## Шаг 5. Идентификация коктейля
 
@@ -57,7 +57,7 @@
 
 Совпадает: **«ТАНЗАНИЯ»** (non-alcoholic) — японский безалкогольный джин, манговый тоник, сок лайма, сироп кокос.
 
-![tanzania.webp](https://github.com/thxStuck/KubSTU-2026-Autumn-Edition/edit/main/OSINT/Afterparty/tanzania.webp)
+![tanzania.webp](https://github.com/thxStuck/KubSTU-2026-Autumn-Edition/blob/main/OSINT/Afterparty/tanzania.webp)
 
 Форма бокала и шпажка-украшение совпадают с исходным фото — это он.
 
