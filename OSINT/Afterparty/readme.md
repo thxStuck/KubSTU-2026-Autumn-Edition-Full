@@ -1,5 +1,5 @@
 После завершения весеннего KubSTU CTF мы пошли гулять и забрели в одно заведение. Тут я и нашёл материал для следующего цтфа - это замечательное фото.
-<img width="12240" height="16320" alt="cocktail" src="https://github.com/user-attachments/assets/4270205c-f10b-491d-bfdb-575a70785fef" />
+![cocktail.jpg](https://github.com/thxStuck/KubSTU-2026-Autumn-Edition/blob/main/OSINT/Afterparty/media/cocktail.jpg)
 Найди заведение где мы отдыхали и укажи название моего коктейля
 
 Формат флага: KubSTU{VenueName_CocktailName}
@@ -21,7 +21,7 @@
 
 Гуглим «барная улица в Краснодаре» / «ресторанная улица в Краснодаре». Стабильно вылезают **ул. Красная** и параллельные ей **Рашпилевская** и **Красноармейская** в центре.
 
-![bar_rest_mile.png](https://github.com/thxStuck/KubSTU-2026-Autumn-Edition/blob/main/OSINT/Afterparty/bar_rest_mile.png)
+![bar_rest_mile.png](https://github.com/thxStuck/KubSTU-2026-Autumn-Edition/blob/main/OSINT/Afterparty/media/bar_rest_mile.png)
 
 В этой зоне ~300 различных заведений — для перебора слишком много, поэтому фильтруем по уликам со Шага 1.
 
@@ -49,7 +49,7 @@
 
 Совпадения сходятся на одном месте: **DeepSmoke, Красноармейская ул., 68.**
 
-![cocktail_writeup.png](https://github.com/thxStuck/KubSTU-2026-Autumn-Edition/blob/main/OSINT/Afterparty/cocktail_writeup.png)
+![cocktail_writeup.png](https://github.com/thxStuck/KubSTU-2026-Autumn-Edition/blob/main/OSINT/Afterparty/media/cocktail_writeup.png)
 
 ## Шаг 5. Идентификация коктейля
 
@@ -57,7 +57,7 @@
 
 Совпадает: **«Танзания»** (non-alcoholic) — японский безалкогольный джин, манговый тоник, сок лайма, сироп кокос.
 
-![tanzania.webp](https://github.com/thxStuck/KubSTU-2026-Autumn-Edition/blob/main/OSINT/Afterparty/tanzania.webp)
+![tanzania.webp](https://github.com/thxStuck/KubSTU-2026-Autumn-Edition/blob/main/OSINT/Afterparty/media/tanzania.webp)
 
 Форма бокала и шпажка-украшение совпадают с исходным фото — это он.
 
