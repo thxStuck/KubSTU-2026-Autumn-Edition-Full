@@ -1,4 +1,4 @@
-![[biba_boba.jpg]]
+![biba_boba.jpg](https://github.com/thxStuck/KubSTU-2026-Autumn-Edition/blob/main/OSINT/Biba%20'n%20Boba/files/biba_boba.jpg)
 
 Где-то на территории университета живут двое. Они ничего не говорят, никуда не уходят и смотрят на всех во внутреннем дворе уже несколько месяцев. Университет не смог удержаться, чтобы не рассказать о них — загляни в официальные аккаунты.
 
@@ -13,11 +13,12 @@
 
 Исходя из вышесказанного идём в соц. сети университета: vk.com/kubstu_official или t.me/kubstu_official. На официальных страницах начнём с поиска по ключевым словам: `камень, камни, двое и т.д`. (Далее будет рассматриваться телеграм, т.к наполнение официального канала и группы в ВК одинаковое)
 
-![[search_res.png]]
+![search_res.png](https://github.com/thxStuck/KubSTU-2026-Autumn-Edition/blob/main/OSINT/Biba%20'n%20Boba/files/search_res.png)
 
 Буквально первый же результат в выдаче привлекает внимание.
 
-![[searched_post.png]]
+
+![searched_post.png](https://github.com/thxStuck/KubSTU-2026-Autumn-Edition/blob/main/OSINT/Biba%20'n%20Boba/files/searched_post.png)
 
 А вот и интересующий нас пост. Теперь идём за ссылкой и оборачиваем её в `KubSTU{}` - `https://t.me/kubstu_official/9761` 
 
