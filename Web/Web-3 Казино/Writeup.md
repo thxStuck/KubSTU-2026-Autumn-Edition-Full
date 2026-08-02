@@ -1,4 +1,4 @@
-Bad Randomness: short writeup
+WEB-3 Казино
 
 ## Дано
 
