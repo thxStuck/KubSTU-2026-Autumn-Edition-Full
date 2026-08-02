@@ -66,13 +66,15 @@ contract BadRandomnessExploit {
 ## Решение через Remix
 
 1. Открыть `https://remix.ethereum.org/`.
-2. Создать файл `BadRandomnessExploit.sol`.
-3. Вставить exploit-код.
-4. Скомпилировать контракт.
+2. Создать файл `Exploit.sol`.
+<img width="1202" height="857" alt="image" src="https://github.com/user-attachments/assets/4ad5fd28-fb59-4e16-8c1d-8608b76185e1" />
+3. Скомпилировать контракт.
+<img width="303" height="668" alt="image" src="https://github.com/user-attachments/assets/4608c7bd-6fd7-41b3-be37-ed7a0c48434b" />
 5. Во вкладке `Deploy & Run Transactions` выбрать `Injected Provider - MetaMask`.
-6. В MetaMask выбрать сеть `Sepolia`.
-7. Задеплоить `BadRandomnessExploit`.
-8. Вызвать:
+7. Установить расширение MetaMask выбрать сеть `Sepolia` и получить несколько монет в каком-нибудь кране (пример крана - .
+8. Задеплоить `BadRandomnessExploit`.
+<img width="2556" height="1357" alt="Безымянный" src="https://github.com/user-attachments/assets/d11be8e1-5ed8-4abb-a878-a13daa72217e" />
+10. Вызвать:
 
 ```text
 solve(0xa8d58d2C110e84C5De16ce9530557a8f38137bCb)
