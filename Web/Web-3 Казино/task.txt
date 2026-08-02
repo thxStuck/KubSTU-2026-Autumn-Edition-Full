@@ -1,7 +1,8 @@
 pragma solidity ^0.8.28;
 
 contract BadRandomnessChallenge {
-   
+    // FLAG hidden
+
     mapping(address => bool) public solved;
 
     event Solved(address indexed player);
@@ -29,5 +30,6 @@ contract BadRandomnessChallenge {
     function getFlag() external view returns (string memory) {
         require(solved[msg.sender], "Solve first");
 
+        // returns flag
     }
 }
