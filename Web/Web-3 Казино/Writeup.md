@@ -70,12 +70,16 @@ contract BadRandomnessExploit {
 <img width="1378" height="560" alt="image" src="https://github.com/user-attachments/assets/56c39d40-d5d7-49f3-a45c-eee582394ced" />
 3. Скомпилировать контракт.
 <img width="1243" height="480" alt="image" src="https://github.com/user-attachments/assets/d735c22d-89c3-416e-914f-d9aa5e65c40c" />
-5. Во вкладке `Deploy & Run Transactions` выбрать `Injected Provider - MetaMask`.
-7. Установить расширение MetaMask выбрать сеть `Sepolia` и получить несколько монет в каком-нибудь кране (пример крана - )
-8. Задеплоить `BadRandomnessExploit`.
+5. Во вкладке `Deploy & Run Transactions` выбрать `Injected Provider - MetaMask`
+
+6. Установить расширение MetaMask выбрать сеть `Sepolia` и получить несколько монет в каком-нибудь кране (пример крана - https://sepolia-faucet.pk910.de/ )
+   
+<img width="730" height="521" alt="image" src="https://github.com/user-attachments/assets/c33479ce-ecc1-41eb-a662-25e756cf8c41" />
+
+7. Задеплоить `BadRandomnessExploit`.
 <img width="2550" height="1320" alt="Безымянный" src="https://github.com/user-attachments/assets/cd6eea0b-63ee-421b-8dd0-6c09cbd673fe" />
 
-10. Вызвать:
+8. Вызвать:
 
 ```text
 solve(0xa8d58d2C110e84C5De16ce9530557a8f38137bCb)
@@ -86,6 +90,8 @@ solve(0xa8d58d2C110e84C5De16ce9530557a8f38137bCb)
 ```text
 getFlag(0xa8d58d2C110e84C5De16ce9530557a8f38137bCb)
 ```
+<img width="2550" height="857" alt="Безымянный" src="https://github.com/user-attachments/assets/7f8f2e8f-7f9f-4b08-a46b-215f9abd575f" />
+
 
 ## Flag
 
