@@ -6,7 +6,7 @@
 Помогите определить заведение на этом кадре и напишите флаг в формате KubSTU{Название}
 
 Фото:
-<img width="1280" height="720" alt="photo_5210988313509046265_y" src="https://github.com/user-attachments/assets/a4cf3f3c-74f0-4e3f-8a02-8189208624c9" />
+<img width="1280" height="720" alt="photo_5210988313509046265_y" src="https://raw.githubusercontent.com/thxStuck/KubSTU-2026-Autumn-Edition/refs/heads/main/OSINT/InfoSec%20hangout/files/task.jpg?token=GHSAT0AAAAAAEIEBFFQ7BXMVMWLO7JUDJOK2U5UUPA" />
 
 Решение:
 1. На фотографии видим паспорт с билетом на самолет
@@ -16,10 +16,10 @@
 По дате в России у нас только одно мероприятие крупное - OFFZONE
 Понимаем что фото сделано на следующий день после оффзона значит это аэропорт Москвы
 
-3. На любом сайте смотрим расписание рейсов в этот день и примерно понимаем, что это Внуково
+3. Ну и там сям смотрим расписания рейсов в Краснодар и увидеть задержки во Внуково, там не все очевидно, так что можно и забрутить
 
 4. Остается только просмотреть фотки всех заведений внутри Внуково и найти такой пол и красные стулья
 
-https://avatars.mds.yandex.net/get-altay/13604236/2a00000194ace6bcc4a8452a21012304cdc4/L_height
+<img width="1280" height="720" alt="photo_5210988313509046265_y" src="https://avatars.mds.yandex.net/get-altay/13604236/2a00000194ace6bcc4a8452a21012304cdc4/L_height" />
 
 Флаг KubSTU{Шоколадница} 
