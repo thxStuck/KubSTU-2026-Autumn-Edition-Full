@@ -16,7 +16,7 @@
 пешеходная улица Краснодар
 ```
 
-![promenade_st.png]()
+![promenade_st.png](https://github.com/thxStuck/KubSTU-2026-Autumn-Edition/blob/main/OSINT/How%20to%20make%20a%20local%20happy/task_media/promenade_st.png)
 
 Первые же результаты указывают на **улицу Красную** — центральную улицу города. Много лет её участок от Пушкинской площади до Длинной перекрывали по выходным, и горожане это очень любили.
 
@@ -30,7 +30,7 @@
 улица Красная перекрыта
 ```
 
-![marathon.png]()
+![marathon.png](https://github.com/thxStuck/KubSTU-2026-Autumn-Edition/blob/main/OSINT/How%20to%20make%20a%20local%20happy/task_media/marathon.png)
 
 Свежие новости (BFM Кубань, 93.ру): в честь Дня города на Красной провели забег, и движение на участке от Постовой до Калинина перекрыли **с 22:00 26 сентября до 14:00 27 сентября**.
 
