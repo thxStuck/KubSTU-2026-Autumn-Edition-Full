@@ -128,23 +128,3 @@ curl -i -b cookies.txt \
 ```text
 KubSTU{capybara_types_and_templates}
 ```
-
-## Итоговая цепочка
-
-```text
-Главная страница
-  -> POST /login.php
-  -> admin + QNKCDZO
-  -> md5(...) == magic hash
-  -> capybara_session=admin
-  -> /studio
-  -> legacy include renderer
-  -> обычный payload блокируется
-  -> URL-encoded payload проходит фильтр
-  -> /etc/passwd читается
-  -> флаг
-```
-
-## Почему это настоящая PHP-задача
-
-Внутри `meme-lab.phar` находится PHP-код, который выполняется PHP CLI. Проверка входа использует реальный PHP MD5 и оператор `==`, а не имитацию в Python. В release ZIP исходный `.php` не включён.
