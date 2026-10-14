@@ -1,0 +1,93 @@
+=== настоящие ===
+part 0: plain=b'KubSTU{r34' shift= 74 enc=95bfac9d9e9fc5bc7d7e pos=549096755
+part 1: plain=b'd1n6_r341' shift=231 enc=4b18551d46591a1b18 pos=657676240
+part 2: plain=b'1y_d0e5_m' shift=138 enc=bb03e9eebaefbfe9f7 pos=1606890440
+part 3: plain=b'4k3_my_br' shift=196 enc=f82ff723313d232636 pos=2051502951
+part 4: plain=b'4in_w0rk_' shift= 42 enc=5e939889a15a9c9589 pos=2335047951
+part 5: plain=b'be77er_bu' shift= 75 enc=adb08282b0bdaaadc0 pos=2814523949
+part 6: plain=b't_th1s_t4' shift=169 enc=1d081d11da1c081ddd pos=3760914134
+part 7: plain=b'5k_1sn7_0' shift=188 enc=f1271bed2f2af31bec pos=4146989580
+part 8: plain=b'ne_0f_7h0' shift=207 enc=3d342eff352e0637ff pos=4655466150
+part 9: plain=b's3_c4535}' shift=148 enc=07c7f3f7c8c9c7c911 pos=5253810567
+
+=== фейки (80) ===
+fake 0: len=10 enc=04f921ba271990425b31 pos=241131196
+fake 1: len=20 enc=29598005d9e3095860f957525f84e9e5ace1bd8a pos=716649970
+fake 2: len=15 enc=3a502f9cf618f0c6a1b29604ba84cb pos=3745546014
+fake 3: len= 9 enc=8314dd94924a935f9d pos=4230992194
+fake 4: len=17 enc=f3ff40a003a7062b7ea35fd631274f48ab pos=4209994461
+fake 5: len=15 enc=9c24032f36ed89ef5e9ef2c19f08d5 pos=426368937
+fake 6: len=12 enc=43f30cb8fcff1c99daedd459 pos=2702251931
+fake 7: len=14 enc=25950c103d9c9c5c4327aadecdb3 pos=2788052855
+fake 8: len= 7 enc=f38937e2bdb87d pos=1035836882
+fake 9: len=15 enc=1f92c7028b41a44de358c37d7d8a35 pos=3284014282
+fake 10: len=20 enc=c22e5cb622f9b8ee190b0ebbf554fdcc523ad41d pos=3457554187
+fake 11: len= 7 enc=9b4b8f0eb57ddf pos=991369438
+fake 12: len=12 enc=25f00689fa4f005bee261b9b pos=1222318883
+fake 13: len= 9 enc=fa8a11d9fd91ccc9ed pos=1975407927
+fake 14: len=17 enc=2a502d431402ddd1c72fe4d02c03ae9e2b pos=5167619295
+fake 15: len= 8 enc=b92ac60b003035ac pos=4429605264
+fake 16: len=20 enc=eb4ba1938ca58bd08692d37bdbb2cac6db5826da pos=1679982593
+fake 17: len=16 enc=5635c2edae34d135bab11ef90eb3fbf1 pos=2861548012
+fake 18: len=16 enc=d5ddaa134ab9b783e900d57bf4c0e9c4 pos=4545941379
+fake 19: len=14 enc=c4becebc9d83ff843bf155fe17ac pos=5253006929
+fake 20: len=19 enc=219aeed7db411e1bdd40fcd5c2f824bd9bd340 pos=2166730283
+fake 21: len=18 enc=e3b24fd786558b16307fcf50c61df51ed405 pos=3466526794
+fake 22: len=17 enc=2e501fa9fdb4b550849140cf2798afef5d pos=3665275325
+fake 23: len= 8 enc=361a1c988a00b436 pos=4213661708
+fake 24: len=17 enc=b3302dfef7eda8e13a4ecad6adf53a7c81 pos=3699743507
+fake 25: len=17 enc=a83a94d208d651dcbafc4e9208f83786a8 pos=4387222276
+fake 26: len=10 enc=8faf069b9438d55bc494 pos=5292611348
+fake 27: len=12 enc=85438aa634aa9ab84e39c036 pos=5006526662
+fake 28: len=10 enc=eee3f11d23d6ce583f09 pos=3704766082
+fake 29: len=13 enc=2ddd3dea0e019289c847e7f2d0 pos=5251175860
+fake 30: len=17 enc=f22e4d3153bb95dee995edcec7f50fe793 pos=2592445138
+fake 31: len=12 enc=d7bfdf8bc37f53a259edbec7 pos=5319712413
+fake 32: len=15 enc=48268750909cc74d9f7cd8cbaff3ab pos=1538517120
+fake 33: len=19 enc=bec75bd4234de71a51a192ca5ddcac402eefa6 pos=5083610912
+fake 34: len=15 enc=ea8dc64d7f89edee573b4fc2c78c24 pos=5246019030
+fake 35: len= 8 enc=57129bd2a3d1867e pos=5220023332
+fake 36: len=15 enc=03349040d4c090c4b4a28ddb540927 pos=3836609365
+fake 37: len=19 enc=154aaec5b927f3bf5a25a2529be6d4c8efe79a pos=3002690894
+fake 38: len=16 enc=4de5c2c235c54cce31a9840feac3969c pos=5004131463
+fake 39: len= 9 enc=33064008b5b4e71c84 pos=3210454618
+fake 40: len= 8 enc=0c80a2033cedc1a8 pos=2832332909
+fake 41: len=20 enc=d75ccae3387df10856e24a2cd0a1f1e028f6172b pos=2883727749
+fake 42: len= 9 enc=b258fd2904fe21e785 pos=2641423036
+fake 43: len=13 enc=d7c72213c3cf5b95b0d1cb19a8 pos=1351603947
+fake 44: len=13 enc=aa9cd63f9880bffb330547f300 pos=3243975360
+fake 45: len=13 enc=1c3c377d449235f6d47dd6805a pos=3049872984
+fake 46: len= 8 enc=55daf691a1a8a640 pos=4302042767
+fake 47: len=13 enc=52c1978f40c226073c242104d6 pos=1632153310
+fake 48: len=19 enc=453dcdbb514ab2d8e49ac22444b6f7f0b42f60 pos=1266453599
+fake 49: len=14 enc=0fb852f8a5a4d03340adb8cbbe2f pos=1137429982
+fake 50: len=15 enc=c302af57f34f410cc896405cd825ef pos=1230698560
+fake 51: len=12 enc=b4582aafaaa84eadccab4201 pos=2330368234
+fake 52: len=20 enc=42be31e62ec0fac725a6ead758fcde0726ff1328 pos=5467480857
+fake 53: len=17 enc=3089a58c9af81e55cb814fabb2fa88063d pos=4305412088
+fake 54: len=15 enc=2436a8087f8d7f589bac5308539b56 pos=3717746844
+fake 55: len=13 enc=feec3b9eeda013d0428b972f7e pos=503934704
+fake 56: len=19 enc=972d4bb836931957295de441c2c29d17b5f3df pos=1681417880
+fake 57: len=17 enc=41bc2513d8589f02d0a38e83af3bd17df9 pos=3804806940
+fake 58: len=14 enc=1b5d4ef1d1b6a6cdc2bc90b5265e pos=5239102635
+fake 59: len=12 enc=4042ae4ea2501f2a5c08fdac pos=3852946283
+fake 60: len=19 enc=8ec8f6ba33ba10313cb0e7c349da10084e3443 pos=11294166
+fake 61: len=10 enc=03b24652a40b0f9322a6 pos=212771733
+fake 62: len=19 enc=548fb7fafefe0f969042c0c4de53c928b18bd2 pos=2989079474
+fake 63: len=13 enc=447bfd5bbc4128d03114319ca3 pos=2260150241
+fake 64: len=18 enc=84dcea82aa069f36ae29c37cafa4008c9783 pos=888366561
+fake 65: len=17 enc=afebf437a146388b9c0babdc4e9ca83f39 pos=1096782930
+fake 66: len= 8 enc=55b6934aaf532fc8 pos=4989401604
+fake 67: len=13 enc=0e0ca9f8edd4c1121c7bf3fbd5 pos=2913542815
+fake 68: len= 7 enc=0cc84f57bccf42 pos=2099488281
+fake 69: len=12 enc=3cc7569a25295be8e3dbf088 pos=1844005053
+fake 70: len=13 enc=be494b18dad69a454b49dac6e2 pos=3046710886
+fake 71: len=20 enc=828bd5b539fb5333221036409ca2483324b9c5b2 pos=366590490
+fake 72: len=19 enc=80b9bbbf0bf7f3bc90c9f9c4ad2cdc5c17d0fb pos=4456953748
+fake 73: len=13 enc=dda89ab8ae9e881fd47f27ea34 pos=3718328596
+fake 74: len=17 enc=b9ab092cff0fcd30eba84ed3541c80fe0c pos=5370175338
+fake 75: len=13 enc=48a09529d604af5fff437d58fd pos=5335001706
+fake 76: len=13 enc=abe1e3231fbdd660f3ba33fc17 pos=2527688283
+fake 77: len=18 enc=8157ed9903cf88de13923f1b271bb596230b pos=1058838329
+fake 78: len=11 enc=565523de4758f2bfccc6f7 pos=1593585932
+fake 79: len=11 enc=ed549a2f5abfaa0e5aa1fc pos=2235373132
