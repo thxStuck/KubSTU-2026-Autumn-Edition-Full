@@ -44,15 +44,15 @@
 
 | | Категория | Заданий | Ссылка |
 |:--:|:--|:--:|:--:|
-| 🌐 | **Web** | 13 | [открыть](Web) |
-| 🧭 | **OSINT** | 11 | [открыть](OSINT) |
-| 🔐 | **Crypto** | 11 | [открыть](Crypto) |
-| 🔎 | **Forensics** | 8 | [открыть](Forensics) |
-| 🖼️ | **Stego** | 8 | [открыть](STEGO) |
-| 🌱 | **Beginner / PPC** | 8 | [открыть](Beginner) |
-| 🛠️ | **Reverse** | 2 | [открыть](Other%28PPC%2Breverse%2Bpwn%2BGit%2BMisc%29) |
-| 🧩 | **Misc** | 2 | [открыть](Other%28PPC%2Breverse%2Bpwn%2BGit%2BMisc%29) |
-| ⛓️ | **Blockchain** | 1 | [открыть](Web) |
+| 🌐 | **Web** | 13 | [открыть](ru/Web) |
+| 🧭 | **OSINT** | 11 | [открыть](ru/OSINT) |
+| 🔐 | **Crypto** | 11 | [открыть](ru/Crypto) |
+| 🔎 | **Forensics** | 8 | [открыть](ru/Forensics) |
+| 🖼️ | **Stego** | 8 | [открыть](ru/STEGO) |
+| 🌱 | **Beginner / PPC** | 8 | [открыть](ru/Beginner) |
+| 🛠️ | **Reverse** | 2 | [открыть](ru/Other%28PPC%2Breverse%2Bpwn%2BGit%2BMisc%29) |
+| 🧩 | **Misc** | 2 | [открыть](ru/Other%28PPC%2Breverse%2Bpwn%2BGit%2BMisc%29) |
+| ⛓️ | **Blockchain** | 1 | [открыть](ru/Web) |
 
 **Всего — 64 задачи**
 

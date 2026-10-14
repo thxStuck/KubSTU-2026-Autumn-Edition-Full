@@ -44,15 +44,15 @@
 
 | | Category | Challenges | Link |
 |:--:|:--|:--:|:--:|
-| 🌐 | **Web** | 13 | [open](Web) |
-| 🧭 | **OSINT** | 11 | [open](OSINT) |
-| 🔐 | **Crypto** | 11 | [open](Crypto) |
-| 🔎 | **Forensics** | 8 | [open](Forensics) |
-| 🖼️ | **Stego** | 8 | [open](STEGO) |
-| 🌱 | **Beginner / PPC** | 8 | [open](Beginner) |
-| 🛠️ | **Reverse** | 2 | [open](Other%28PPC%2Breverse%2Bpwn%2BGit%2BMisc%29) |
-| 🧩 | **Misc** | 2 | [open](Other%28PPC%2Breverse%2Bpwn%2BGit%2BMisc%29) |
-| ⛓️ | **Blockchain** | 1 | [open](Web) |
+| 🌐 | **Web** | 13 | [open](en/Web) |
+| 🧭 | **OSINT** | 11 | [open](en/OSINT) |
+| 🔐 | **Crypto** | 11 | [open](en/Crypto) |
+| 🔎 | **Forensics** | 8 | [open](en/Forensics) |
+| 🖼️ | **Stego** | 8 | [open](en/STEGO) |
+| 🌱 | **Beginner / PPC** | 8 | [open](en/Beginner) |
+| 🛠️ | **Reverse** | 2 | [open](en/Other%28PPC%2Breverse%2Bpwn%2BGit%2BMisc%29) |
+| 🧩 | **Misc** | 2 | [open](en/Other%28PPC%2Breverse%2Bpwn%2BGit%2BMisc%29) |
+| ⛓️ | **Blockchain** | 1 | [open](en/Web) |
 
 **Total — 64 challenges**
 

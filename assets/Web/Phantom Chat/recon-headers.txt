@@ -1,0 +1,10 @@
+
+Server: nginx/1.25.5
+Cache-Control: public, max-age=300
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+X-Varnish: 29
+Via: 1.1 fd54f2d70807 (Varnish/7.4)
+

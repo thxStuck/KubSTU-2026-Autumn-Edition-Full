@@ -44,15 +44,15 @@
 
 | | 类别 | 题目数 | 链接 |
 |:--:|:--|:--:|:--:|
-| 🌐 | **Web** | 13 | [打开](Web) |
-| 🧭 | **OSINT** | 11 | [打开](OSINT) |
-| 🔐 | **Crypto** | 11 | [打开](Crypto) |
-| 🔎 | **Forensics** | 8 | [打开](Forensics) |
-| 🖼️ | **Stego** | 8 | [打开](STEGO) |
-| 🌱 | **Beginner / PPC** | 8 | [打开](Beginner) |
-| 🛠️ | **Reverse** | 2 | [打开](Other%28PPC%2Breverse%2Bpwn%2BGit%2BMisc%29) |
-| 🧩 | **Misc** | 2 | [打开](Other%28PPC%2Breverse%2Bpwn%2BGit%2BMisc%29) |
-| ⛓️ | **Blockchain** | 1 | [打开](Web) |
+| 🌐 | **Web** | 13 | [打开](zh/Web) |
+| 🧭 | **OSINT** | 11 | [打开](zh/OSINT) |
+| 🔐 | **Crypto** | 11 | [打开](zh/Crypto) |
+| 🔎 | **Forensics** | 8 | [打开](zh/Forensics) |
+| 🖼️ | **Stego** | 8 | [打开](zh/STEGO) |
+| 🌱 | **Beginner / PPC** | 8 | [打开](zh/Beginner) |
+| 🛠️ | **Reverse** | 2 | [打开](zh/Other%28PPC%2Breverse%2Bpwn%2BGit%2BMisc%29) |
+| 🧩 | **Misc** | 2 | [打开](zh/Other%28PPC%2Breverse%2Bpwn%2BGit%2BMisc%29) |
+| ⛓️ | **Blockchain** | 1 | [打开](zh/Web) |
 
 **合计 — 64 道题目**
 

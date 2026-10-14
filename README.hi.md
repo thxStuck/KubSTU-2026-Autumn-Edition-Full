@@ -44,15 +44,15 @@
 
 | | श्रेणी | चैलेंज | लिंक |
 |:--:|:--|:--:|:--:|
-| 🌐 | **Web** | 13 | [खोलें](Web) |
-| 🧭 | **OSINT** | 11 | [खोलें](OSINT) |
-| 🔐 | **Crypto** | 11 | [खोलें](Crypto) |
-| 🔎 | **Forensics** | 8 | [खोलें](Forensics) |
-| 🖼️ | **Stego** | 8 | [खोलें](STEGO) |
-| 🌱 | **Beginner / PPC** | 8 | [खोलें](Beginner) |
-| 🛠️ | **Reverse** | 2 | [खोलें](Other%28PPC%2Breverse%2Bpwn%2BGit%2BMisc%29) |
-| 🧩 | **Misc** | 2 | [खोलें](Other%28PPC%2Breverse%2Bpwn%2BGit%2BMisc%29) |
-| ⛓️ | **Blockchain** | 1 | [खोलें](Web) |
+| 🌐 | **Web** | 13 | [खोलें](hi/Web) |
+| 🧭 | **OSINT** | 11 | [खोलें](hi/OSINT) |
+| 🔐 | **Crypto** | 11 | [खोलें](hi/Crypto) |
+| 🔎 | **Forensics** | 8 | [खोलें](hi/Forensics) |
+| 🖼️ | **Stego** | 8 | [खोलें](hi/STEGO) |
+| 🌱 | **Beginner / PPC** | 8 | [खोलें](hi/Beginner) |
+| 🛠️ | **Reverse** | 2 | [खोलें](hi/Other%28PPC%2Breverse%2Bpwn%2BGit%2BMisc%29) |
+| 🧩 | **Misc** | 2 | [खोलें](hi/Other%28PPC%2Breverse%2Bpwn%2BGit%2BMisc%29) |
+| ⛓️ | **Blockchain** | 1 | [खोलें](hi/Web) |
 
 **कुल — 64 चैलेंज**
 
